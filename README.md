@@ -7,6 +7,7 @@ Please checkout the report.pdf in the root directory for a full explanation and 
 ## Running Instructions ##
 ```
 git clone https://github.com/nkrishn9/GP-IPSCs.git
+cd GP-IPSCs/
 chmod -x run_analysis.sh
 source run_analysis.sh
 ```
